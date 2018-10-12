@@ -14,3 +14,4 @@ if __name__ == '__main__':
     dada.num()
     print(dada.nux())
 
+1
